@@ -3,8 +3,8 @@
 
 <div align="center">
 
-<!-- Animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:208a6c,50:7d4fc4,100:c9842b&height=200&section=header&text=Deep%20Kotadia&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Chemical%20Engineer%20%C3%97%20Scientific%20ML&descSize=18&descAlignY=60&animation=fadeIn" alt="Deep Kotadia"/>
+<!-- Animated molecule banner (commit assets/header.gif to the repo) -->
+<img src="assets/header.gif" width="100%" alt="Deep Kotadia — Chemical Engineer × Scientific ML"/>
 
 <!-- Animated typing tagline -->
 <a href="https://deeppkotadia.github.io">
@@ -24,6 +24,7 @@
 - ⚛️ My work focuses on **Scientific Machine Learning** — from predicting catalyst adsorption energies to building **LLM-powered agentic pipelines** that mine literature at scale.
 - 🧬 I'm fascinated by how **local LLM systems** and **automated scientific workflows** can accelerate research that would otherwise take years.
 - ⚙️ Background in **process engineering** (Zentiva, TITLIS), a published patent, and graphic-design leadership.
+- ☕ Gujarati at heart — always up for chai over a long chat.
 
 ---
 
@@ -103,6 +104,8 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c9842b,50:7d4fc4,100:208a6c&height=120&section=footer&text=Built%20with%20Local%20LLM%20%E2%98%95&fontColor=ffffff&fontSize=15&fontAlignY=70" alt="footer"/>
+`⚗️ ⚛️ 🧬 🔬 🧪`
+
+**Built with Local LLM ☕** · Gujarati at heart, always up for chai over a long chat
 
 </div>
