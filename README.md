@@ -24,7 +24,6 @@
 - ⚛️ My work focuses on **Scientific Machine Learning** — from predicting catalyst adsorption energies to building **LLM-powered agentic pipelines** that mine literature at scale.
 - 🧬 I'm fascinated by how **local LLM systems** and **automated scientific workflows** can accelerate research that would otherwise take years.
 - ⚙️ Background in **process engineering** (Zentiva, TITLIS), a published patent, and graphic-design leadership.
-- ☕ Gujarati at heart — always up for chai over a long chat.
 
 ---
 
